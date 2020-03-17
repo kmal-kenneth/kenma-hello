@@ -1,0 +1,10 @@
+{
+    "name": "kenma/hello",
+    "description": "Hello php",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kenma\\hello\\": "src"
+        }
+    }
+}
